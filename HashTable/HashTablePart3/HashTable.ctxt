@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HashTable
+comment0.text=\n\ Creates\ a\ hash\ table\n\n\ @author\ Ritvik\ Ramakrishnan\n\ @version\ 11/19/19\n
+comment1.params=
+comment1.target=HashTable()
+comment2.params=initCap
+comment2.target=HashTable(int)
+comment3.params=key\ value
+comment3.target=java.lang.Object\ put(java.lang.Object,\ java.lang.Object)
+comment4.params=key
+comment4.target=java.lang.Object\ get(java.lang.Object)
+comment5.params=key
+comment5.target=java.lang.Object\ remove(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=int\ getCapacity()
+comment8.params=
+comment8.target=int\ getCollisions()
+comment9.params=
+comment9.target=long\ getProbes()
+numComments=10
