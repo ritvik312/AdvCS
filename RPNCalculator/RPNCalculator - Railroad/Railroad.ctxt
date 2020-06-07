@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Railroad
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=trains
+comment2.target=boolean\ willItWork(ArrayStack)
+numComments=3

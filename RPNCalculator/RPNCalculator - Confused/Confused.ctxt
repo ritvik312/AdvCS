@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Confused
+comment0.text=\n\ Checks\ to\ make\ sure\ every\ bracket\ and\ parentheses\ are\ formatted\ properly\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
