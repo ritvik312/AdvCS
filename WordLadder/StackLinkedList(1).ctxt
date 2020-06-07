@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StackLinkedList
+comment1.params=
+comment1.target=StackLinkedList()
+comment10.params=
+comment10.target=java.lang.String\ toStringBackwards()
+comment11.params=
+comment11.target=StackLinkedList\ deepCopy()
+comment2.params=presetLinkedList
+comment2.target=StackLinkedList(LinkedList)
+comment3.params=data
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment5.params=
+comment5.target=java.lang.Object\ pop()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=
+comment7.target=boolean\ isEmpty()
+comment8.params=
+comment8.target=void\ clear()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=12

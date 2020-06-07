@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=
+comment1.target=LinkedList()
+comment10.params=
+comment10.target=LinkedList\ deepCopy()
+comment2.params=data
+comment2.target=void\ addFront(java.lang.Object)
+comment3.params=data
+comment3.target=void\ addBack(java.lang.Object)
+comment4.params=data
+comment4.target=void\ remove(java.lang.Object)
+comment5.params=index
+comment5.target=java.lang.Object\ get(int)
+comment6.params=index
+comment6.target=Node\ getNode(int)
+comment7.params=data
+comment7.target=boolean\ contains(java.lang.Object)
+comment8.params=
+comment8.target=int\ size()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

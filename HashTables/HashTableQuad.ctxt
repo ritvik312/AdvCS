@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=HashTableQuad
+comment1.params=
+comment1.target=HashTableQuad()
+comment2.params=initCap
+comment2.target=HashTableQuad(int)
+comment3.params=
+comment3.target=long\ getCollisionCount()
+comment4.params=
+comment4.target=void\ resetCollisionCount()
+comment5.params=
+comment5.target=int\ getCapacity()
+comment6.params=key\ value
+comment6.target=java.lang.Object\ put(java.lang.Object,\ java.lang.Object)
+comment7.params=key
+comment7.target=java.lang.Object\ remove(java.lang.Object)
+comment8.params=key
+comment8.target=java.lang.Object\ get(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
