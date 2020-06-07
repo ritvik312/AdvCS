@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ArrayQueue
+comment0.text=\n\ Outlines\ a\ basic\ queue\n\n\ @author\ Ritvik\ Ramakrishnan\n\ @version\ 9/24/19\n
+comment1.params=capacity
+comment1.target=ArrayQueue(int)
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=boolean\ isFull()
+comment5.params=x
+comment5.target=void\ enqueue(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.Object\ dequeue()
+comment7.params=
+comment7.target=java.lang.Object\ peek()
+numComments=8
