@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Huffman
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=parent\ path
+comment2.target=void\ visit(Node,\ java.lang.String)
+numComments=3

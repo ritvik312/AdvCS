@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=cards
+comment1.target=Game(java.lang.String[])
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\n\ \ \ \ from\ left\ to\ right,\ check\:\n\ \ \ \ if\ can\ move\ three\ spaces\ left,\ do\ it\ and\ check\ left\ to\ right\ again\n\ \ \ \ if\ can\ move\ one\ space\ left,\ do\ it\ and\ check\ left\ to\ right\ again\n\ \ \ \ if\ neither,\ check\ next\ item\n\ \ \ \ if\ get\ to\ end\ of\ the\ list\ without\ a\ move,\ flip\ and\ check\ from\ left\ to\ right\ again\n\ \ \ \ if\ out\ of\ cards,\ end\n
+comment3.params=
+comment3.target=void\ flip()
+comment4.params=pileIndex1\ pileIndex2
+comment4.target=boolean\ topCardsMatch(int,\ int)
+comment5.params=pileIndexRight\ pileIndexLeft
+comment5.target=void\ moveCard(int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ output()
+numComments=7
