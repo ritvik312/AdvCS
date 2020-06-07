@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Project
+comment1.params=projectName
+comment1.target=Project(java.lang.String)
+comment2.params=otherProject
+comment2.target=int\ compareTo(Project)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

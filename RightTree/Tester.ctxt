@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nums
+comment2.target=boolean\ isRight(int[])
+numComments=3

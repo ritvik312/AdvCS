@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Goat
+comment1.params=cycle
+comment1.target=Goat(int[])
+comment2.params=
+comment2.target=void\ nextDay()
+comment3.params=
+comment3.target=int\ output()
+comment4.params=otherGoat
+comment4.target=int\ compareTo(Goat)
+numComments=5

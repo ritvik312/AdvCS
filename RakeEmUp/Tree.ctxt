@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=leafCounts
+comment1.target=Tree(int[])
+comment2.params=
+comment2.target=void\ fill()
+comment3.params=parent
+comment3.target=void\ visit(Tree.Node)
+comment4.params=parent
+comment4.target=void\ leftNode(Tree.Node)
+comment5.params=parent
+comment5.target=void\ rightNode(Tree.Node)
+comment6.params=
+comment6.target=java.lang.String\ pilesOutput()
+numComments=7

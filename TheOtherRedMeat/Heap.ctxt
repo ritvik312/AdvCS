@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Heap
+comment1.params=capacity
+comment1.target=Heap(int)
+comment2.params=
+comment2.target=int\ fullCycle()
+comment3.params=
+comment3.target=boolean\ killGoat()
+comment4.params=
+comment4.target=void\ nextDay()
+comment5.params=obj
+comment5.target=void\ add(Goat)
+comment6.params=i1\ i2
+comment6.target=void\ swap(int,\ int)
+numComments=7
