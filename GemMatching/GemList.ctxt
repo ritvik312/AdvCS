@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GemList
+comment1.params=
+comment1.target=GemList()
+comment2.params=head\ tail
+comment2.target=GemList(GemList.Node,\ GemList.Node)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=y
+comment4.target=void\ draw(double)
+comment5.params=gem\ index
+comment5.target=void\ insertBefore(Gem,\ int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=int\ score()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
